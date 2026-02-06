@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Laptop",
+      "price": 15000000,
+      "category": "Elektronik",
+      "stock": 10
+    },
+    {
+      "id": "2",
+      "name": "Mouse",
+      "price": 150000,
+      "category": "Aksesoris",
+      "stock": 50
+    },
+    {
+      "name": "Keyboard",
+      "price": 500000,
+      "category": "Aksesoris",
+      "stock": "20",
+      "id": "0c79"
+    }
+  ]
+}
